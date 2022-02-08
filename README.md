@@ -17,7 +17,7 @@
 
 ## Usage
 
-1. Open settings on monkeytype.com
+1. Open settings on [monkeytype.com](https://monkeytype.com/)
 2. Go to the theme settings
 3. Select the Catppuccin theme
 ## 💝 Thanks to
