@@ -16,13 +16,67 @@
 </p>
 
 ## Usage
+1. Choose your flavour.
+2. Click the link of your flavour and enjoy.
+  - [🌿 Mocha](https://monkeytype.com?customTheme=WyIjMWUxZTJlIiwiI2E2ZTNhMSIsIiNmOWUyYWYiLCIjNTg1YjcwIiwiIzU4NWI3MCIsIiNjZGQ2ZjQiLCIjZjM4YmE4IiwiI2ViYTBhYyIsIiNmMzhiYTgiLCIjZWJhMGFjIl0=)
+  - [🌺 Macchiato](https://monkeytype.com?customTheme=WyIjMjQyNzNhIiwiI2E2ZGE5NSIsIiNlZWQ0OWYiLCIjNWI2MDc4IiwiIzViNjA3OCIsIiNjYWQzZjUiLCIjZWQ4Nzk2IiwiI2VlOTlhMCIsIiNlZDg3OTYiLCIjZWU5OWEwIl0=)
+  - [🪴 Frappe](https://monkeytype.com?customTheme=WyIjMzAzNDQ2IiwiI2E2ZDE4OSIsIiNlNWM4OTAiLCIjNjI2ODgwIiwiIzYyNjg4MCIsIiNjNmQwZjUiLCIjZTc4Mjg0IiwiI2VhOTk5YyIsIiNlNzgyODQiLCIjZWE5OTljIl0=)
+  - [🌻 Latte](https://monkeytype.com?customTheme=WyIjZWZmMWY1IiwiIzQwYTAyYiIsIiNkZjhlMWQiLCIjYWNiMGJlIiwiI2FjYjBiZSIsIiM0YzRmNjkiLCIjZDIwZjM5IiwiI2U2NDU1MyIsIiNkMjBmMzkiLCIjZTY0NTUzIl0=)
 
-1. Open settings on [monkeytype.com](https://monkeytype.com/)
+<details>
+<summary>Custom colors</summary>
+
+  1. Open settings on [monkeytype.com](https://monkeytype.com/)
+  2. Scroll down to `theme` and put the following colors in the custom theme. (this is mocha but you can put in the colors from *flavour*.css)
+  <table>
+    <tr>
+      <td>Background</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_base.png" height="12" width="12"/> #1e1e2e</td>
+      <td>Main</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> #a6e3a1 (Change this color to whatever you want)</td>
+    </tr>
+    <tr>
+      <td>Caret</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> #f9e2af</td>
+      <td>Sub</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_surface2.png" height="12" width="12"/> #585b70</td>
+    </tr>
+    <tr>
+      <td>Sub alt</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_surface2.png" height="12" width="12"/> #585b70</td>
+      <td>Text</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_text.png" height="12" width="12"/> #cdd6f4</td>
+    </tr>
+    <tr>
+      <td>Error</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> #f38ba8</td>
+      <td>Extra error</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> #eba0ac</td>
+    </tr>
+    <tr>
+      <td>colorful mode</td>
+    </tr>
+    <tr>
+      <td>Error</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> #f38ba8</td>
+      <td>Extra error</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> #eba0ac</td>
+    </tr>
+  </table>
+
+</details>
+
+### Or
+
+1. Open settings on [monkeytype.com](https://monkeytype.com/) (Not yet updated to version 0.2.0)
 2. Go to the theme settings
 3. Select the Catppuccin theme
+
+
 ## 💝 Thanks to
 
 - [Jazil T S](https://github.com/tsjazil)
+- [Lexi](https://github.com/ShyyLexi/)
 
 &nbsp;
 
