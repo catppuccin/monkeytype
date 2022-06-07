@@ -18,10 +18,10 @@
 ## Usage
 1. Choose your flavour.
 2. Click the link of your flavour and enjoy.
-  - [🌿 Mocha](https://monkeytype.com?customTheme=WyIjMWUxZTJlIiwiI2E2ZTNhMSIsIiNmOWUyYWYiLCIjNTg1YjcwIiwiIzU4NWI3MCIsIiNjZGQ2ZjQiLCIjZjM4YmE4IiwiI2ViYTBhYyIsIiNmMzhiYTgiLCIjZWJhMGFjIl0=)
-  - [🌺 Macchiato](https://monkeytype.com?customTheme=WyIjMjQyNzNhIiwiI2E2ZGE5NSIsIiNlZWQ0OWYiLCIjNWI2MDc4IiwiIzViNjA3OCIsIiNjYWQzZjUiLCIjZWQ4Nzk2IiwiI2VlOTlhMCIsIiNlZDg3OTYiLCIjZWU5OWEwIl0=)
-  - [🪴 Frappe](https://monkeytype.com?customTheme=WyIjMzAzNDQ2IiwiI2E2ZDE4OSIsIiNlNWM4OTAiLCIjNjI2ODgwIiwiIzYyNjg4MCIsIiNjNmQwZjUiLCIjZTc4Mjg0IiwiI2VhOTk5YyIsIiNlNzgyODQiLCIjZWE5OTljIl0=)
-  - [🌻 Latte](https://monkeytype.com?customTheme=WyIjZWZmMWY1IiwiIzQwYTAyYiIsIiNkZjhlMWQiLCIjYWNiMGJlIiwiI2FjYjBiZSIsIiM0YzRmNjkiLCIjZDIwZjM5IiwiI2U2NDU1MyIsIiNkMjBmMzkiLCIjZTY0NTUzIl0=)
+  - [🌿 Mocha](https://monkeytype.com?customTheme=WyIjMWUxZTJlIiwiI2E2ZTNhMSIsIiNmNWUwZGMiLCIjNTg1YjcwIiwiIzU4NWI3MCIsIiNjZGQ2ZjQiLCIjZjM4YmE4IiwiI2ViYTBhYyIsIiNmMzhiYTgiLCIjZWJhMGFjIl0=)
+  - [🌺 Macchiato](https://monkeytype.com?customTheme=WyIjMjQyNzNhIiwiI2E2ZGE5NSIsIiNmNGRiZDYiLCIjNWI2MDc4IiwiIzViNjA3OCIsIiNjYWQzZjUiLCIjZWQ4Nzk2IiwiI2VlOTlhMCIsIiNlZDg3OTYiLCIjZWU5OWEwIl0=)
+  - [🪴 Frappe](https://monkeytype.com?customTheme=WyIjMzAzNDQ2IiwiI2E2ZDE4OSIsIiNmMmQ1Y2YiLCIjNjI2ODgwIiwiIzYyNjg4MCIsIiNjNmQwZjUiLCIjZTc4Mjg0IiwiI2VhOTk5YyIsIiNlNzgyODQiLCIjZWE5OTljIl0=)
+  - [🌻 Latte](https://monkeytype.com?customTheme=WyIjZWZmMWY1IiwiIzQwYTAyYiIsIiNkYzhhNzgiLCIjYWNiMGJlIiwiI2FjYjBiZSIsIiM0YzRmNjkiLCIjZDIwZjM5IiwiI2U2NDU1MyIsIiNkMjBmMzkiLCIjZTY0NTUzIl0=)
 
 <details>
 <summary>Custom colors</summary>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>Caret</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_yellow.png" height="12" width="12"/> #f9e2af</td>
+      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> #f5e0dc</td>
       <td>Sub</td>
       <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_surface2.png" height="12" width="12"/> #585b70</td>
     </tr>
