@@ -1,0 +1,19 @@
+---
+whiskers:
+  version: "2.2.0"
+  matrix:
+    - flavor
+  filename: "{{ flavor.identifier }}.css"
+---
+:root {
+    --bg-color: #{{ base.hex }};
+    --caret-color: #{{ rosewater.hex }};
+    --main-color: #{{ green.hex }};
+    --sub-color: #{{ surface2.hex }};
+    --sub-alt-color: #{{ mantle.hex }};
+    --text-color: #{{ text.hex }};
+    --error-color: #{{ red.hex }};
+    --error-extra-color: #{{ maroon.hex }};
+    --colorful-error-color: #{{ red.hex }};
+    --colorful-error-extra-color: #{{ maroon.hex }};
+   }
