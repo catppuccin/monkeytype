@@ -37,10 +37,10 @@
 ## Usage
 1. Choose your flavour.
 2. Click the link of your flavour and enjoy.
-  - [🌿 Mocha](https://monkeytype.com?customTheme=WyIjMWUxZTJlIiwiI2E2ZTNhMSIsIiNmNWUwZGMiLCIjNTg1YjcwIiwiIzE4MTgyNSIsIiNjZGQ2ZjQiLCIjZjM4YmE4IiwiI2ViYTBhYyIsIiNmMzhiYTgiLCIjZWJhMGFjIl0=)
-  - [🌺 Macchiato](https://monkeytype.com?customTheme=WyIjMjQyNzNhIiwiI2E2ZGE5NSIsIiNmNGRiZDYiLCIjNWI2MDc4IiwiIzFlMjAzMCIsIiNjYWQzZjUiLCIjZWQ4Nzk2IiwiI2VlOTlhMCIsIiNlZDg3OTYiLCIjZWU5OWEwIl0=)
-  - [🪴 Frappe](https://monkeytype.com?customTheme=WyIjMzAzNDQ2IiwiI2E2ZDE4OSIsIiNmMmQ1Y2YiLCIjNjI2ODgwIiwiIzI5MmMzYyIsIiNjNmQwZjUiLCIjZTc4Mjg0IiwiI2VhOTk5YyIsIiNlNzgyODQiLCIjZWE5OTljIl0=)
-  - [🌻 Latte](https://monkeytype.com?customTheme=WyIjZWZmMWY1IiwiIzQwYTAyYiIsIiNkYzhhNzgiLCIjYWNiMGJlIiwiI2U2ZTllZiIsIiM0YzRmNjkiLCIjZDIwZjM5IiwiI2U2NDU1MyIsIiNkMjBmMzkiLCIjZTY0NTUzIl0=)
+  - [🌿 Mocha](https://monkeytype.com?customTheme=eyJjIjpbIiMxZTFlMmUiLCIjYTZlM2ExIiwiI2Y1ZTBkYyIsIiM1ODViNzAiLCIjMTgxODI1IiwiI2NkZDZmNCIsIiNmMzhiYTgiLCIjZWJhMGFjIiwiI2YzOGJhOCIsIiNlYmEwYWMiXX0=)
+  - [🌺 Macchiato](https://monkeytype.com?customTheme=eyJjIjpbIiMyNDI3M2EiLCIjYTZkYTk1IiwiI2Y0ZGJkNiIsIiM1YjYwNzgiLCIjMWUyMDMwIiwiI2NhZDNmNSIsIiNlZDg3OTYiLCIjZWU5OWEwIiwiI2VkODc5NiIsIiNlZTk5YTAiXX0=)
+  - [🪴 Frappe](https://monkeytype.com?customTheme=eyJjIjpbIiMzMDM0NDYiLCIjYTZkMTg5IiwiI2YyZDVjZiIsIiM2MjY4ODAiLCIjMjkyYzNjIiwiI2M2ZDBmNSIsIiNlNzgyODQiLCIjZWE5OTljIiwiI2U3ODI4NCIsIiNlYTk5OWMiXX0=)
+  - [🌻 Latte](https://monkeytype.com?customTheme=eyJjIjpbIiNlZmYxZjUiLCIjNDBhMDJiIiwiI2RjOGE3OCIsIiNhY2IwYmUiLCIjZTZlOWVmIiwiIzRjNGY2OSIsIiNkMjBmMzkiLCIjZTY0NTUzIiwiI2QyMGYzOSIsIiNlNjQ1NTMiXX0=)
 
 <details>
 <summary>Custom colors</summary>
