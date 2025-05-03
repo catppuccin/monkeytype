@@ -1,0 +1,15 @@
+{
+  "name": "@catppuccin/monkeytype",
+  "type": "module",
+  "private": "true",
+  "license": "MIT",
+  "dependencies": {
+    "@catppuccin/palette": "^1.7.1",
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.4"
+  },
+  "scripts": {
+    "build": "tsx main.ts"
+  },
+  "packageManager": "pnpm@10.10.0"
+}
