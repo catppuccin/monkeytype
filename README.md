@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/res.webp"/>
+  <img src="assets/preview.webp"/>
 </p>
 
 ## Previews
@@ -35,62 +35,19 @@
 </details>
 
 ## Usage
-1. Choose your flavour.
-2. Click the link of your flavour and enjoy.
-  - [🌿 Mocha](https://monkeytype.com?customTheme=eyJjIjpbIiMxZTFlMmUiLCIjYTZlM2ExIiwiI2Y1ZTBkYyIsIiM1ODViNzAiLCIjMTgxODI1IiwiI2NkZDZmNCIsIiNmMzhiYTgiLCIjZWJhMGFjIiwiI2YzOGJhOCIsIiNlYmEwYWMiXX0=)
-  - [🌺 Macchiato](https://monkeytype.com?customTheme=eyJjIjpbIiMyNDI3M2EiLCIjYTZkYTk1IiwiI2Y0ZGJkNiIsIiM1YjYwNzgiLCIjMWUyMDMwIiwiI2NhZDNmNSIsIiNlZDg3OTYiLCIjZWU5OWEwIiwiI2VkODc5NiIsIiNlZTk5YTAiXX0=)
-  - [🪴 Frappe](https://monkeytype.com?customTheme=eyJjIjpbIiMzMDM0NDYiLCIjYTZkMTg5IiwiI2YyZDVjZiIsIiM2MjY4ODAiLCIjMjkyYzNjIiwiI2M2ZDBmNSIsIiNlNzgyODQiLCIjZWE5OTljIiwiI2U3ODI4NCIsIiNlYTk5OWMiXX0=)
-  - [🌻 Latte](https://monkeytype.com?customTheme=eyJjIjpbIiNlZmYxZjUiLCIjNDBhMDJiIiwiI2RjOGE3OCIsIiNhY2IwYmUiLCIjZTZlOWVmIiwiIzRjNGY2OSIsIiNkMjBmMzkiLCIjZTY0NTUzIiwiI2QyMGYzOSIsIiNlNjQ1NTMiXX0=)
 
-<details>
-<summary>Custom colors</summary>
+> [!IMPORTANT]  
+> Catppuccin Mocha is already included as a preset in MonkeyType. Open the settings, scroll down to "theme" and select "catppuccin".
 
-  1. Open settings on [monkeytype.com](https://monkeytype.com/)
-  2. Scroll down to `theme` and put the following colors in the custom theme. (this is mocha but you can put in the colors from *flavour*.css)
-  <table>
-    <tr>
-      <td>Background</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_base.png" height="12" width="12"/> #363a4f</td>
-      <td>Main</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_green.png" height="12" width="12"/> #a6e3a1 (Change this color to whatever you want)</td>
-    </tr>
-    <tr>
-      <td>Caret</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_rosewater.png" height="12" width="12"/> #f5e0dc</td>
-      <td>Sub</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_surface2.png" height="12" width="12"/> #585b70</td>
-    </tr>
-    <tr>
-      <td>Sub alt</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_surface2.png" height="12" width="12"/> #585b70</td>
-      <td>Text</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_text.png" height="12" width="12"/> #cdd6f4</td>
-    </tr>
-    <tr>
-      <td>Error</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> #f38ba8</td>
-      <td>Extra error</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> #eba0ac</td>
-    </tr>
-    <tr>
-      <td>colorful mode</td>
-    </tr>
-    <tr>
-      <td>Error</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_red.png" height="12" width="12"/> #f38ba8</td>
-      <td>Extra error</td>
-      <td><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/circles/mocha_maroon.png" height="12" width="12"/> #eba0ac</td>
-    </tr>
-  </table>
+Load your chosen flavour by clicking the corresponding link below. This will open MonkeyType with the theme applied:
 
-</details>
-
-### Or
-
-1. Open settings on [monkeytype.com](https://monkeytype.com/) (Not yet updated to version 0.2.0)
-2. Go to the theme settings
-3. Select the Catppuccin theme
-
+<!-- AUTOGEN START -->
+<!-- the following section is auto-generated, do not edit -->
+- [🌻 Latte](https://monkeytype.com/?customTheme=eyJjIjpbIiNlZmYxZjUiLCIjODgzOWVmIiwiI2RjOGE3OCIsIiM4YzhmYTEiLCIjZTZlOWVmIiwiIzRjNGY2OSIsIiNkMjBmMzkiLCIjZTY0NTUzIiwiI2QyMGYzOSIsIiNlNjQ1NTMiXX0)
+- [🪴 Frappé](https://monkeytype.com/?customTheme=eyJjIjpbIiMzMDM0NDYiLCIjY2E5ZWU2IiwiI2YyZDVjZiIsIiM4MzhiYTciLCIjMjkyYzNjIiwiI2M2ZDBmNSIsIiNlNzgyODQiLCIjZWE5OTljIiwiI2U3ODI4NCIsIiNlYTk5OWMiXX0)
+- [🌺 Macchiato](https://monkeytype.com/?customTheme=eyJjIjpbIiMyNDI3M2EiLCIjYzZhMGY2IiwiI2Y0ZGJkNiIsIiM4MDg3YTIiLCIjMWUyMDMwIiwiI2NhZDNmNSIsIiNlZDg3OTYiLCIjZWU5OWEwIiwiI2VkODc5NiIsIiNlZTk5YTAiXX0)
+- [🌿 Mocha](https://monkeytype.com/?customTheme=eyJjIjpbIiMxZTFlMmUiLCIjY2JhNmY3IiwiI2Y1ZTBkYyIsIiM3Zjg0OWMiLCIjMTgxODI1IiwiI2NkZDZmNCIsIiNmMzhiYTgiLCIjZWJhMGFjIiwiI2YzOGJhOCIsIiNlYmEwYWMiXX0)
+<!-- AUTOGEN END -->
 
 ## 💝 Thanks to
 
