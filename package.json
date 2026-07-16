@@ -11,5 +11,5 @@
   "scripts": {
     "build": "tsx main.ts"
   },
-  "packageManager": "pnpm@10.10.0"
+  "packageManager": "pnpm@10.34.5"
 }
